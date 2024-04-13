@@ -1,0 +1,12 @@
+.mountains {
+    background-image: url("/public/mountains.png");
+    z-index: 3;
+}
+.planets{
+    background-image: url("/public/planets.png");
+    z-index: 2;
+}
+.stars {
+    background-image: url("/public/stars.png");
+    z-index: 1;
+}
